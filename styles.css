@@ -7,7 +7,7 @@ html, body {
 /* typography and icons */
 
 h1{
-    color: #0F8CDF;
+    color: #080808;
     margin-bottom: 10px;
     font-size: 20px;
 }
@@ -56,7 +56,7 @@ textarea{
 }
 
 button{
-    background-color: #1DA1F2;
+    background-color: #040505;
     border: none;
     color: white;
     padding: 10px 19px;
