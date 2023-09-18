@@ -4,6 +4,8 @@ html, body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* typography and icons */
+
 h1{
     color: #0F8CDF;
     margin-bottom: 10px;
@@ -109,4 +111,16 @@ button{
     width: 207px;
     font-size: 14px;
     line-height: 20px;
+}
+
+.tweet-reply{
+    border-top: 1px solid lightgray;
+    padding: 20px 0 0 0px;
+    margin: 10px 0 10px 40px;
+    width: 80%;
+}
+
+/* utility */
+.hidden{
+    display: none;
 }
